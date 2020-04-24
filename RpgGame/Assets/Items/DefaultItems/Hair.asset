@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db8a95ec504f6b74fa524e5d85f3ba6e, type: 3}
+  m_Name: Hair
+  m_EditorClassIdentifier: 
+  name: Hair
+  icon: {fileID: 0}
+  isDefaultItem: 1
+  equipslot: 0
+  mesh: {fileID: 8544822892895033745, guid: 7b8d413f86707a944bd811703f7b0365, type: 3}
+  coveredMeshRegion: 
+  armorModifier: 0
+  damageModifier: 0
